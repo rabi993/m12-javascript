@@ -19,4 +19,10 @@ console.log(name);
 var name="hero alom";
 var roll= 25;
 console.log(name + roll);
-
+var name ='rabi.';
+var promise = "I am a student ygbdrjf ejhfb hbfj hjfgujgg87gfe hhf ";
+console.log(promise);
+console.log(name+promise);
+console.log(promise.toUpperCase());
+// position search
+console.log(promise.indexOf("am")); 
