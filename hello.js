@@ -30,7 +30,28 @@ console.log(promise.indexOf("am"));
 console.log(promise.indexOf("amar")); 
 console.log(promise.split("am"));
 console.log(promise.split(" "));
-var name ="bangladesh";
-console.log(name.indexOf(d));
+
+var number1 =23;
+var number2=12.5;
+console.log(number1+number2);
+var num3="  10.5";
+console.log(number1+num3);
+num3=parseFloat(num3);
+console.log(number1+num3);
+num3=parseInt(num3);
+console.log(number1+num3);
+var n1=45;
+var n2=23.5;
+n2=''+n2;
+console.log(n1+n2);
+n2=+n2;
+console.log(n1+n2);
+n4=0.1;
+n5=0.2;
+var total=n4+n5;
+console.log(total);
+total=total.toFixed(3);
+console.log(total);
+
 
 
