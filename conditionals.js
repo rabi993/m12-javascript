@@ -57,3 +57,8 @@ else if (jobPaiso==true ){
 else{
     console.log("tor kopale biye nai");
 }
+// rthkyhjyhjyhjyhjeorijojkdgepiohjppppppppppppppppppppp
+var date= new Date('1974-12-16');
+console.log(date);
+var date= new Date('1974-11-16');
+console.log(date);
