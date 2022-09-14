@@ -24,5 +24,13 @@ var promise = "I am a student ygbdrjf ejhfb hbfj hjfgujgg87gfe hhf ";
 console.log(promise);
 console.log(name+promise);
 console.log(promise.toUpperCase());
+console.log(promise.toLowerCase());
 // position search
 console.log(promise.indexOf("am")); 
+console.log(promise.indexOf("amar")); 
+console.log(promise.split("am"));
+console.log(promise.split(" "));
+var name ="bangladesh";
+console.log(name.indexOf(d));
+
+
