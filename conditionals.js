@@ -45,3 +45,15 @@ if (jobPaiso==true || savingAmount> 200000){
 else{
     console.log("tor kopale biye nai");
 }
+if (jobPaiso==true && savingAmount> 200000){
+    console.log("aso tomar patri khuji");
+}
+else if (jobPaiso==true || savingAmount> 200000){
+    console.log("aso tomar patri khuji");
+}
+else if (jobPaiso==true ){
+    console.log("aso tomar patri khuji");
+}
+else{
+    console.log("tor kopale biye nai");
+}
