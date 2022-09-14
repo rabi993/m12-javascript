@@ -1,0 +1,21 @@
+// console.log(32);
+// console.log('good morning');
+var bananaPrice =30;
+var banana =3;
+console.log(bananaPrice);
+console.log(banana);
+var seenAfter=21;
+console.log(typeof seenAfter);
+var name="korim uddin";
+console.log(typeof name);
+var name="korim uddin";
+console.log( name);
+var isHot=true;
+var isRich=false;
+console.log(isHot);
+console.log(typeof isRich);
+var name="hero alom";
+console.log(name);
+var name="hero alom";
+var roll=25
+console.log(name+roll);
