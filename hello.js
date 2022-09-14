@@ -1,5 +1,5 @@
-// console.log(32);
-// console.log('good morning');
+console.log(32);
+console.log('good morning');
 var bananaPrice =30;
 var banana =3;
 console.log(bananaPrice);
@@ -17,5 +17,6 @@ console.log(typeof isRich);
 var name="hero alom";
 console.log(name);
 var name="hero alom";
-var roll=25
-console.log(name+roll);
+var roll= 25;
+console.log(name + roll);
+
